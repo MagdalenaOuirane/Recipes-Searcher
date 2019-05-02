@@ -1,0 +1,24 @@
+.container-fluid {
+    padding-left: 9%;
+}
+
+.card {
+    width : 18rem;
+    height: 23rem;
+    background: #97f8ff;
+    margin: 0 0 20px;
+    padding: 10px;
+}
+
+.card:hover {
+    background: #58e7ff;
+    border: 1px solid;
+}
+.card-img-top{
+    margin: auto;
+    width : 10rem;
+}
+
+.card-text{
+    font-size: smaller;
+}
